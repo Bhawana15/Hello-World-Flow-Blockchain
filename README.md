@@ -18,14 +18,14 @@ The utilization of capability-based security, which enforces access control by r
 
 # Deploying the Smart Contract :
 
--> Download the project, extract it.
--> Install Flow CLI
--> Move to project folder using cd command
--> $ flow init (use ‘--reset’ flag only if you want to reset the configuration)
--> $ flow emulator
--> $ flow keys generate (and save the private and public at some place)
--> $ flow accounts get 0xf8d6e0586b0a20c7
--> Create an new account in Flow Testnet Faucet : https://testnet-faucet-v2.onflow.org/
--> Save the public address of the Testnet Faucet : ################
--> $ flow accounts create
--> $ flow accounts add-contract <name> <filename>
+-> Download the project, extract it. <br />
+-> Install Flow CLI <br />
+-> Move to project folder using cd command <br />
+-> $ flow init (use ‘--reset’ flag only if you want to reset the configuration) <br />
+-> $ flow emulator <br />
+-> $ flow keys generate (and save the private and public at some place) <br />
+-> $ flow accounts get 0xf8d6e0586b0a20c7 <br />
+-> Create an new account in Flow Testnet Faucet : https://testnet-faucet-v2.onflow.org/ <br />
+-> Save the public address of the Testnet Faucet : ################ <br />
+-> $ flow accounts create <br />
+-> $ flow accounts add-contract <name> <filename> <br />
