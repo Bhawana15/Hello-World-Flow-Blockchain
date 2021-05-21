@@ -26,7 +26,6 @@ The utilization of capability-based security, which enforces access control by r
 -> $ flow keys generate (and save the private and public at some place)
 -> $ flow accounts get 0xf8d6e0586b0a20c7
 -> Create an new account in Flow Testnet Faucet : https://testnet-faucet-v2.onflow.org/
--> Save the public address of the Testnet Faucet : ****************
+-> Save the public address of the Testnet Faucet : ################
 -> $ flow accounts create
 -> $ flow accounts add-contract <name> <filename>
--> Cte
